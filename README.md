@@ -42,6 +42,8 @@ Missing Word Prompting:
 
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
-OUTPUT:
+# OUTPUT:
+[View The PDF](212225060119d)
 
-RESULT: 
+# RESULT: 
+The prompt executed successfully and output verified
